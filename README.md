@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shikhar%20Bhadauria&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20LLM%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Shikhar%20Bhadauria&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20LLM%20Enthusiast&descAlignY=55&descSize=18"/>
+
+
 
 <div align="center">
 
@@ -45,7 +47,7 @@ ask_me_about: anything — happy to help!
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Currently Building
 <div align="center">
 
-🤖 AI Research Assistant
+## 🤖 AI Research Assistant
 <table>
   <tr>
     <td align="center" width="140">
@@ -98,7 +100,7 @@ An intelligent research agent that autonomously browses the web, scrapes & embed
 
 <br/>
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 <div align="center">
 
 AI & Machine Learning
@@ -139,7 +141,7 @@ Tools & Design
 
 <br/>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shikharbhadauria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharbhadauria&theme=tokyonight&hide_border=true"/>
@@ -151,21 +153,17 @@ Tools & Design
 
 <br/>
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shikharbhadauria&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 <br/>
 
-🏆 Trophies
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=shikharbhadauria&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1"/>
-</div>
 
 <br/>
 
-✍️ Dev Quote
+## ✍️ Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
