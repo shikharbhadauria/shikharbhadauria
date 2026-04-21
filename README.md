@@ -14,17 +14,18 @@
   <a href="https://linkedin.com/in/shikharbhadauria">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/shikharbhadaur">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://www.hackerrank.com/profile/shikharbhadauria">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/shikharsinghbhadauria">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.codechef.com/users/shikharbhadaur">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://www.shikharbhadauria.com/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=shikharbhadauria&style=for-the-badge&color=blue" alt="profile views"/>
 </div>
+
 
 <br/>
 
