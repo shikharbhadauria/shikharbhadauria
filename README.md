@@ -1,27 +1,175 @@
-# 💫 About Me:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shikhar%20Bhadauria&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20LLM%20Enthusiast&descAlignY=55&descSize=18"/>
 
-🔭 Hi, I'm [Shikhar Bhadauria](https://www.shikharbhadauria.com/) <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hi" width="24"/>, currently working at [Napses Technologies](https://napses.com/) as Full Stack Developer.<br>👯 I'm looking to collaborate on Software as a service (SaaS) ideas, Or building dev tools.<br>🌱 I'm currently learning about System Design, Software Development.<br>💬 Ask me about anything, I am happy to help :)
-<br>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/refs/heads/master/code.gif" alt="" height="350"/>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+SaaS+products+%F0%9F%9A%80;Crafting+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+Agentic+systems+%F0%9F%94%8D;Open+to+collaborate+on+cool+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shikharsinghbhadauria) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shikharbhadauria) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shikharbhadaur) 
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=plastic&logo=zod&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shikharbhadauria&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shikharbhadauria&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shikharbhadauria&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shikharbhadauria&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <a href="https://linkedin.com/in/shikharbhadauria">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/shikharbhadaur">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/shikharsinghbhadauria">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.shikharbhadauria.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shikharbhadauria&style=for-the-badge&color=blue" alt="profile views"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shikharbhadauria&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+name: Shikhar Bhadauria
+role: Full Stack Developer @ Napses Technologies
+location: India 🇮🇳
+focus:
+  - AI-powered applications & RAG pipelines
+  - SaaS products & developer tooling
+  - System Design & scalable architecture
+currently_building: AI Research Assistant (LLM + LangGraph + RAG)
+open_to_collaborate: true
+ask_me_about: anything — happy to help!
+<br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Currently Building
+<div align="center">
+
+🤖 AI Research Assistant
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
+      <b>Next.js 14</b><br/>
+      <sub>App Router + TS</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
+      <b>FastAPI</b><br/>
+      <sub>Python Backend</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <b>LangGraph</b><br/>
+      <sub>Agentic Pipeline</sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
+      <b>SearXNG</b><br/>
+      <sub>Self-hosted Search</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      🦙<br/><br/>
+      <b>Ollama</b><br/>
+      <sub>nomic-embed-text</sub>
+    </td>
+    <td align="center" width="140">
+      ⚡<br/><br/>
+      <b>Groq API</b><br/>
+      <sub>llama-3.3-70b</sub>
+    </td>
+    <td align="center" width="140">
+      🎭<br/><br/>
+      <b>Playwright</b><br/>
+      <sub>Web Scraping</sub>
+    </td>
+    <td align="center" width="140">
+      🗄️<br/><br/>
+      <b>ChromaDB</b><br/>
+      <sub>Vector Store</sub>
+    </td>
+  </tr>
+</table>
+
+An intelligent research agent that autonomously browses the web, scrapes & embeds content, and synthesizes answers using LLMs — fully local-first.
+</div>
+
+<br/>
+
+🛠️ Tech Stack
+<div align="center">
+
+AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/>
+&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E97627?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+<br/>
+
+Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,sass,html,css&theme=dark"/>
+
+<br/>
+
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet,go,java&theme=dark"/>
+
+<br/>
+
+Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,dynamodb&theme=dark"/>
+
+<br/>
+
+Infrastructure & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,nginx,git,github&theme=dark"/>
+
+<br/>
+
+Tools & Design
+<img src="https://skillicons.dev/icons?i=figma,postman,notion,jira,vite&theme=dark"/>
+
+</div>
+
+<br/>
+
+📊 GitHub Stats
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shikharbhadauria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikharbhadauria&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharbhadauria&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+<br/>
+
+📈 Contribution Graph
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shikharbhadauria&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<br/>
+
+🏆 Trophies
+<div align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=shikharbhadauria&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&row=1"/>
+</div>
+
+<br/>
+
+✍️ Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
