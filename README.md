@@ -34,7 +34,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 name: Shikhar Bhadauria
-role: Full Stack Developer @ Napses Technologies
+role: Full Stack Developer
 location: India 🇮🇳
 focus:
   - AI-powered applications & RAG pipelines
