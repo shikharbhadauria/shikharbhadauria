@@ -33,9 +33,12 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-name: Shikhar Bhadauria
+name: Shikhar Singh Bhadauria
+<br/>
 role: Full Stack Developer
+<br/>
 location: India 🇮🇳
+<br/>
 focus:
   - AI-powered applications & RAG pipelines
   - SaaS products & developer tooling
