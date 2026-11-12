@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Shikhar%20Bhadauria&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20and%20LLM%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Shikhar%20Bhadauria&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%C2%B7%20Full%20Stack%20(Python%20%26%20TypeScript)&descAlignY=55&descSize=18"/>
 
 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+SaaS+products+%F0%9F%9A%80;Crafting+AI-powered+applications+%F0%9F%A4%96;Exploring+RAG+%26+Agentic+systems+%F0%9F%94%8D;Open+to+collaborate+on+cool+ideas+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Shipping+production+LLM+systems+%F0%9F%A4%96;Agentic+AI+%C2%B7+RAG+%C2%B7+LLM+evaluation+%F0%9F%94%8D;Python+%2B+TypeScript%2C+end+to+end+%F0%9F%9A%80;Google+Code+Jam+2022+%C2%B7+Rank+902+%2F+90K%2B+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,6 +16,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/shikharbhadauria">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/shikharbhadauria/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.codechef.com/users/shikharbhadaur">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
@@ -33,73 +36,49 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
+```yaml
 name: Shikhar Singh Bhadauria
-<br/>
-role: Full Stack Developer
-<br/>
-location: India 🇮🇳
-<br/>
+role: AI Engineer · Full Stack (Python & TypeScript)
+location: Bengaluru, India 🇮🇳
+experience: 4+ years, 1.5+ shipping production LLM systems
+recent_work:
+  - Palo Alto Networks (via Ascendion): Case AI Auto Audit, an LLM audit platform for support cases
+    (Gemini 2.5 Flash on Vertex AI, structured outputs, golden-dataset evaluation, human-in-the-loop)
+  - Napses: Orterum, LangGraph multi-agent real-time voice agents (RAG, streaming, LiveKit)
+  - Napses: Tax Uttaram for Deloitte (NestJS, PostgreSQL, RBAC) and Metalynk (2,000+ active users)
+  - TCS: SRE for AGL Energy (SLI/SLO observability, Terraform)
 focus:
-  - AI-powered applications & RAG pipelines
-  - SaaS products & developer tooling
-  - System Design & scalable architecture
-currently_building: AI Research Assistant (LLM + LangGraph + RAG)
-open_to_collaborate: true
-ask_me_about: anything — happy to help!
+  - Agentic AI, RAG and tool calling
+  - LLM evaluation and guardrails
+  - Python (FastAPI) and TypeScript (NestJS, Next.js) products, end to end
+achievements: Google Code Jam 2022 Rank 902 / 90K+ · Kick Start 2021 Rank 2905 · CodeChef Rank 275
+open_to: AI engineering, backend and full-stack roles
+```
+
 <br/>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Currently Building
+## 🚀 Featured Projects
 <div align="center">
-
-## 🤖 AI Research Assistant
 <table>
   <tr>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>
-      <b>Next.js 14</b><br/>
-      <sub>App Router + TS</sub>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/shikharbhadauria/company-radar">Company Radar</a></h3>
+      Agentic company research for engineers evaluating employers. A LangGraph planner, search and synthesizer loop runs parallel Tavily searches and streams a cited PURSUE / CAUTION / AVOID report.
+      <br/><br/>
+      <b>Stack:</b> Next.js, TypeScript, Python, FastAPI, LangGraph, Groq, Tavily
+      <br/><br/>
+      <a href="https://company-radar-delta.vercel.app">Live demo</a>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
-      <b>FastAPI</b><br/>
-      <sub>Python Backend</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
-      <b>LangGraph</b><br/>
-      <sub>Agentic Pipeline</sub>
-    </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>
-      <b>SearXNG</b><br/>
-      <sub>Self-hosted Search</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      🦙<br/><br/>
-      <b>Ollama</b><br/>
-      <sub>nomic-embed-text</sub>
-    </td>
-    <td align="center" width="140">
-      ⚡<br/><br/>
-      <b>Groq API</b><br/>
-      <sub>llama-3.3-70b</sub>
-    </td>
-    <td align="center" width="140">
-      🎭<br/><br/>
-      <b>Playwright</b><br/>
-      <sub>Web Scraping</sub>
-    </td>
-    <td align="center" width="140">
-      🗄️<br/><br/>
-      <b>ChromaDB</b><br/>
-      <sub>Vector Store</sub>
+    <td width="50%" valign="top">
+      <h3>✅ Focusly</h3>
+      AI task assistant PWA. A tool-calling LLM agent with 8 schema-validated tools, step limits and per-user quotas as guardrails, plus Whisper voice input.
+      <br/><br/>
+      <b>Stack:</b> Next.js, TypeScript, LLM tool calling, Zod, Whisper, Supabase
+      <br/><br/>
+      <a href="https://focusly-delta.vercel.app">Live demo</a>
     </td>
   </tr>
 </table>
-
-An intelligent research agent that autonomously browses the web, scrapes & embeds content, and synthesizes answers using LLMs — fully local-first.
 </div>
 
 <br/>
@@ -107,14 +86,15 @@ An intelligent research agent that autonomously browses the web, scrapes & embed
 ## 🛠️ Tech Stack
 <div align="center">
 
-AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/>
+AI & LLMs
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 &nbsp;
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-E97627?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 <br/>
 
@@ -124,17 +104,17 @@ Frontend
 <br/>
 
 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet,go,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,express,spring,java&theme=dark"/>
 
 <br/>
 
 Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,dynamodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,dynamodb,rabbitmq&theme=dark"/>
 
 <br/>
 
 Infrastructure & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,nginx,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,nginx,git,github&theme=dark"/>
 
 <br/>
 
