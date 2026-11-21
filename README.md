@@ -47,6 +47,9 @@ recent_work:
   - Napses: Orterum, LangGraph multi-agent real-time voice agents (RAG, streaming, LiveKit)
   - Napses: Tax Uttaram for Deloitte (NestJS, PostgreSQL, RBAC) and Metalynk (2,000+ active users)
   - TCS: SRE for AGL Energy (SLI/SLO observability, Terraform)
+side_projects:
+  - Focusly: AI productivity PWA with a remote MCP server (OAuth 2.1) for Claude, ChatGPT and Cursor
+  - LLM Eval Harness: golden-dataset regression evals and a CI gate for LLM judges
 focus:
   - Agentic AI, RAG and tool calling
   - LLM evaluation and guardrails
@@ -70,12 +73,20 @@ open_to: AI engineering, backend and full-stack roles
       <a href="https://company-radar-delta.vercel.app">Live demo</a>
     </td>
     <td width="50%" valign="top">
+      <h3>🧪 <a href="https://github.com/shikharbhadauria/llm-eval-harness">LLM Eval Harness</a></h3>
+      Golden-dataset regression evals for rule-based LLM judges. Per-rule accuracy, fail precision and recall, cost and latency, with a CI gate that blocks any prompt or model change that regresses.
+      <br/><br/>
+      <b>Stack:</b> Python, Claude structured outputs, pytest, GitHub Actions, Next.js
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>✅ Focusly</h3>
-      AI task assistant PWA. A tool-calling LLM agent with 8 schema-validated tools, step limits and per-user quotas as guardrails, plus Whisper voice input.
+      Offline-first productivity PWA with an AI layer. An in-app tool-calling assistant (text or Whisper voice) with confirm-before-delete and Undo on every change, and the same 60 Zod-validated tools exposed through a remote MCP server (OAuth 2.1, PKCE) so Claude, ChatGPT, Gemini CLI and Cursor can use it directly. Row-level security on every call.
       <br/><br/>
-      <b>Stack:</b> Next.js, TypeScript, LLM tool calling, Zod, Whisper, Supabase
+      <b>Stack:</b> Next.js, TypeScript, MCP, LLM tool calling, Zod, Whisper, Supabase (Postgres + RLS)
       <br/><br/>
-      <a href="https://focusly-delta.vercel.app">Live demo</a>
+      <a href="https://focusly.rocketbrains.in">Live app</a>
     </td>
   </tr>
 </table>
